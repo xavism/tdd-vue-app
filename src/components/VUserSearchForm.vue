@@ -3,10 +3,10 @@ export default {
   name: 'UserSearchForm',
   data() {
     return {
-      username: ''
-    }
-  }
-}
+      username: '',
+    };
+  },
+};
 </script>
 
 <template>

@@ -2,6 +2,7 @@
 
 exports[`UserView renders the component 1`] = `
 <div>
-  Hello World
+  <vusersearchform-stub></vusersearchform-stub>
+  <vuserprofile-stub user="[object Object]"></vuserprofile-stub>
 </div>
 `;
